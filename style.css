@@ -1,0 +1,20 @@
+body {
+    font-family: "Courier New", "Brush Script MT", sans-serif;
+    background-color: #97b856;
+}
+
+.title {
+    color: #E37383;
+    text-decoration: underline;
+}
+
+.title, 
+.center-text {
+    text-align: center;
+}
+
+.change {
+    color: white;
+}
+
+
