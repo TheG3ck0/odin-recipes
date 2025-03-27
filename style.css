@@ -4,13 +4,23 @@ body {
 }
 
 .title {
-    color: #E37383;
+    color: #bd4c5d;
     text-decoration: underline;
 }
 
 .title, 
 .center-text {
     text-align: center;
+}
+
+.recipe-links {
+    border: 0.2em solid rgb(190, 129, 129);
+    text-align: center;
+    padding: 1em;
+    list-style: none;
+    margin: 1em;
+    font-size: 20px;
+    background-color: rgba(217, 199, 252, 0.3);
 }
 
 .change {
